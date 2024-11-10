@@ -7,6 +7,11 @@
 
 - 📄 Know about my experiences [https://shourryya.netlify.app/Resume/shourya_resume.pdf](https://shourryya.netlify.app/Resume/shourya_resume.pdf)
 
+- <p>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=shourryya&theme=black&border=border&animated=true" alt="LeetCode Badges" style="margin-right: 10px;"/> 
+  <img src="https://leetcard.jacoblin.cool/shourryya?theme=dark&font=Baloo%20Da%202&ext=heatmap" alt="Leetcode stats"/>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/shourryya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shourryya" height="30" width="40" /></a>
