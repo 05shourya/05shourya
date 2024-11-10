@@ -5,7 +5,7 @@
 
 - Connect with me at **05shourya@gmail.com**
 
-- 📄 Know about my experiences [https://shourryya.netlify.app/Resume/shourya_resume.pdf](https://shourryya.netlify.app/Resume/shourya_resume.pdf)
+- 📄 Resume: [https://shourryya.netlify.app/Resume/shourya_resume.pdf](https://shourryya.netlify.app/Resume/shourya_resume.pdf)
 
 - <p>
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=shourryya&theme=black&border=border&animated=true" alt="LeetCode Badges" style="margin-right: 10px;"/> 
