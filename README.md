@@ -3,7 +3,7 @@
 
 - 👨‍💻 My Portfolio [https://shourryya.vercel.app/](https://shourryya.vercel.app/)
 
-- Connect with me at **05shourya@gmail.com**
+- Connect with me at **shouryag.dev@gmail.com**
 
 - 📄 Resume: [https://shourryya.vercel.app/docs/Shourya_Gupta_Resume.pdf](https://shourryya.vercel.app/docs/Shourya_Gupta_Resume.pdf)
 
