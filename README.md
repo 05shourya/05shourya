@@ -5,7 +5,7 @@
 
 - Connect with me at **05shourya@gmail.com**
 
-- 📄 Resume: [[https://shourryya.vercel.app/Resume/shourya_resume.pdf](https://shourryya.vercel.app/docs/Shourya_Gupta_Resume.pdf)](https://shourryya.vercel.app/docs/Shourya_Gupta_Resume.pdf)
+- 📄 Resume: [https://shourryya.vercel.app/docs/Shourya_Gupta_Resume.pdf](https://shourryya.vercel.app/docs/Shourya_Gupta_Resume.pdf)
 
 - <p>
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=shourryya&theme=black&border=border&animated=true" alt="LeetCode Badges" style="margin-right: 10px;"/> 
