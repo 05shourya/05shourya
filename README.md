@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shourya Gupta</h1>
 <h3 align="center">Web & App Developer</h3>
 
-- 👨‍💻 My Portfolio [https://shourryya.netlify.app/](https://shourryya.netlify.app/)
+- 👨‍💻 My Portfolio [https://shourryya.vercel.app/](https://shourryya.netlify.app/)
 
 - Connect with me at **05shourya@gmail.com**
 
-- 📄 Resume: [https://shourryya.netlify.app/Resume/shourya_resume.pdf](https://shourryya.netlify.app/Resume/shourya_resume.pdf)
+- 📄 Resume: [https://shourryya.vercel.app/Resume/shourya_resume.pdf](https://shourryya.netlify.app/Resume/shourya_resume.pdf)
 
 - <p>
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=shourryya&theme=black&border=border&animated=true" alt="LeetCode Badges" style="margin-right: 10px;"/> 
